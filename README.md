@@ -285,13 +285,3 @@ ENVIRONMENT=development
 ## 👨‍💻 Author
 
 Built by **Sathya** as a production-grade AI engineering project demonstrating multi-agent systems for financial compliance.
-
----
-
-## 📄 License
-
-MIT License - feel free to use this project as a reference for your own AI engineering work.
-
----
-
-*Built with ❤️ using AWS Bedrock, LangGraph, and Claude AI*
